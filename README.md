@@ -2,6 +2,8 @@
 
 A lightweight, dark-themed single-page application (SPA) to repeat specific sections of YouTube videos.
 
+[Demo site](https://emstoo.github.io/youtube-ab-repeater/)
+
 ## Features
 
 - **AB Repeat**: Set start (A) and end (B) points during playback or via manual input.
